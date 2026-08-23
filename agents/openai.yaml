@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 029"
+  short_description: "Create horizontal-field wax-pastel paper drawings."
+  default_prompt: "Use $xxd-panel-029 to redraw my photograph as one recognisable light matte wax-pastel subject crossing a source-derived low-saturation horizontal paper field on rough ivory handmade stock, with source-led offset or crop, broken friction marks, double-paper depth, restrained Risograph grain, and soft native-script handwriting; ask first for modes and copy or locale preferences."
