@@ -44,11 +44,21 @@ XXD Panel 029 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **真实印刷痕迹：** 轻微做旧、Risograph 颗粒与极小套印偏差增加手工温度，不变成脏污滤镜。
 - **松弛手写：** 一句短句沿色域边缘、主体走势或留白融入，可轻微穿插、错位或跨界。
 
-## 样张 · 即将补充
+## 样张 · 来自 X
 
-项目已预留 [`assets/examples/`](assets/examples/) 样张目录。只有经项目作者确认、确实使用 029 完成的作品才会加入；在此之前不借用其他风格的推文或图片作为占位。
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090452158827422135) · 2026-08-20<br>
+> GPT2 x 蜡笔 x 松弛感 x 美学提示词 x VOL.029
 
-未来样张只用于展示 029 对不同题材的适应力，不会把样张主体、留白比例、配色、文案或画幅变成生成参考或默认值。
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090452158827422135"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 029 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090452158827422135"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 029 样张 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090452158827422135">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 029 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 四种输出共享同一种横向色域逻辑
 

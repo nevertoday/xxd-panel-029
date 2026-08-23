@@ -44,11 +44,21 @@ XXD Panel 029 は、Codex と互換 Agent のための画像生成 Skill です�
 - **印刷の痕跡：** 軽い経年感、リソグラフの粒子、ごく小さな版ずれで触覚的な温度を加え、汚れフィルターにはしません。
 - **力の抜けた手書き文字：** 短い一行を色面の縁、主体の身振り、または開いた紙に沿わせ、必要なら軽く交差、ずれ、重なりを作ります。
 
-## 作例 · 近日追加
+## 作例 · X より
 
-リポジトリには将来の作例用に [`assets/examples/`](assets/examples/) を用意しています。プロジェクト作者が確認した 029 の完成作品だけを追加し、それまでは別スタイルの投稿や画像を代用しません。
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090452158827422135) · 2026-08-20<br>
+> GPT2 x 蜡笔 x 松弛感 x 美学提示词 x VOL.029
 
-将来の作例は 029 の応用範囲を示すだけで、主体、余白比率、配色、文言、画角が生成参照や既定値になることはありません。
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090452158827422135"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 029 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090452158827422135"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 029 作例 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090452158827422135">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 029 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 4つの出力を支えるひとつの横長色面ロジック
 
