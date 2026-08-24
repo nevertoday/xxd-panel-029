@@ -1,58 +1,79 @@
-# XXD Panel 029 | Horizontal-Field Wax-Pastel Production Prompt
+# XXD Panel 029 | Runtime Adapter (English)
 
-## Runtime complete-canvas contract — highest priority
+This is not a second aesthetic prompt. Read and use `references/029-source.md` in full and verbatim before generation; it is the sole creative and aesthetic authority for Panel 029. This file only appends the current user's runtime variables.
 
-- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
-- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
-- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
-- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
-- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+## Non-authoring boundary
 
-### Model priority and credentials
+- Do not summarize, translate, expand, polish, or “improve” the source brief.
+- Do not add a palette plan, material plan, composition theory, whitespace rule, title, microcopy package, or aesthetic motive.
+- Preserve the source brief's own colour behaviour exactly, whether it derives colour from the photograph or specifies a fixed family.
+- Let the image model execute the source brief's existing text logic. The outer Skill does not pre-write copy.
+- Current modes and sizes override only the legacy 3:4 top-bottom container, never the remaining aesthetic rules.
 
-- **Prefer GPT Image 2.** When GPT Image 2 is available through the current built-in image tool or a configured compatible route, use it first for the high-fidelity reference/edit and complete-canvas generation required by this prompt.
-- Also support Seedance 5.0 Pro, Nano Banana Pro (Gemini Image Pro), Nano Banana 2 (Gemini Image Flash), or another compatible bitmap model only when the actual route can preserve the source, realise the whole finished canvas, render the target-language text, and accept the multiple references needed by a linked wallpaper pack.
-- An alternative model changes only the generation route. It must not change this prompt's modes, canvas, source visibility, copy, locale, wallpaper relationship, or complete-canvas-first / composition-fallback-only logic. Do not silently downgrade a hard requirement.
-- If no suitable route is available, ask the user to enable an image-generation tool or provide an API key. User-provided credentials may be used for the current task, but never echo, display, log, or expose their value in chat, prompts, or diagnostics. Do not persist them or modify global route configuration unless explicitly requested.
-- Judge availability by actual image capability, not by a provider name or one missing environment variable.
+## Append-only runtime template
 
-Process only the one source photograph explicitly supplied for this current task. Lock the principal subject or inseparable relation, core proportion, contour flow, pose, direction, action, function, relational distance, and colour character. Preserve at least three source-specific recognition cues. Never borrow a horizontal field, wax-pastel rhythm, palette, copy, or composition from old outputs, samples, or another input.
+```text
+RUNTIME OVERRIDE — CURRENT DELIVERY ONLY
 
-## One horizontal low-saturation paper field
+The original brief's initial 3:4 top-bottom arrangement is its legacy presentation container.
+For this output, override only: final canvas, source/design-region placement,
+source visibility, and device dimensions.
+Except for those container variables, every design-transformation, composition,
+colour, material, whitespace, text-character and typography instruction in the
+original brief remains authoritative.
 
-Place one horizontally extended low-saturation paper-colour field on rough ivory handmade stock. Derive and reharmonise its hue, warmth, value, and emotion from the current photograph's composite colour and atmosphere. Never fix it to pink, blue, green, brown, or beige, and never reuse the previous source's field colour.
+Interpret “upper photo” as SOURCE REFERENCE.
+Interpret “lower half” as DESIGN REGION.
 
-The field only relates subject and space; it is not scenery or decoration. Let subject weight, direction, action, and contour flow determine field height, vertical position, subject scale, offset, crop, and whether the subject crosses the upper or lower boundary. Horizontal field, subject mass, positive/negative shape, and upper/lower whitespace must form one deliberate ratio system rather than default centring.
+OUTPUT MODE: TOP_BOTTOM | LEFT_RIGHT | DESIGN_ONLY | WALLPAPER_PACK
+FINAL CANVAS: <ratio and/or exact WIDTHxHEIGHT>
+DEVICE PROFILE: NONE | PHONE | IPAD | DESKTOP | WATCH
+SOURCE VISIBILITY: UPPER HALF | LEFT HALF | REFERENCE ONLY — NOT VISIBLE
+DESIGN REGION: LOWER HALF | RIGHT HALF | FULL CANVAS
+PAIRED RELATION: FOLLOW THE ORIGINAL BRIEF'S PAIRED-PROPORTION RULE | NOT APPLICABLE
+WALLPAPER RELATIONSHIP: NONE | INDEPENDENT | LINKED
 
-Use only this one principal field. Reject multiple colour panels, borders, patterns, stickers, tape, stamps, scattered icons, repeated motifs, and cheap scrapbook decoration.
+Colour follows the original brief's existing colour instructions exactly.
+Unless the user explicitly requests a colour change, do not add, replace,
+summarize, or re-plan any palette.
+```
 
-## Light matte wax-pastel subject
+Append exactly one text block after the runtime block. If the user has other explicit requirements, append those verbatim after the text block at the very end.
 
-Simplify the subject into light-coloured matte wax-pastel masses and marks. Remove busy detail while preserving core proportion, contour flow, pose, direction, action, function, and relation so the original remains recognisable at first glance.
+### Text generated from the original prompt
 
-Marks are loose, casual, irregular, slightly broken, and rich in rough friction. Coverage may vary subtly; edges may locally gap, double-touch, flatten, or reveal paper fibre, but defining contours stay readable. Never turn it into mechanically closed outlines, smooth digital illustration, realistic modelling, or a children's cartoon.
+```text
+TEXT MODE: ORIGINAL_PROMPT_GENERATED
+TEXT LANGUAGE: <user-confirmed language or locale>
 
-Keep restrained double-paper depth: the horizontal field reads as a low-saturation second paper layer on coarse ivory stock, with only delicate edge difference rather than complex collage. Add mild ageing, Risograph grain, and tiny registration imperfection while keeping the piece clean, premium, and quiet.
+The image model generates wording by following the original brief's existing
+text-generation logic. The outer Skill supplies no title, microcopy, copy
+package, or additional semantic framework.
+```
 
-Reject opaque acrylic blocks, oily crayon shine, coloured-pencil hatching, watercolour bloom, ink wash, impasto, realistic shadow, complex lighting, 3D, glossy vector polish, and dirty filters.
+### User-exact text
 
-## Source colour and whitespace
+```text
+TEXT MODE: USER_EXACT
+TEXT LANGUAGE: <user-confirmed language or locale>
+TEXT: “<user's exact characters>”
 
-The horizontal field is the principal colour event. Lower saturation, unify temperature, and soften the source's composite palette without erasing its distinct warm/cool relation or emotional character. Keep the subject primarily light and chalky, with only restrained source-derived tonal changes required for recognition.
+Use the supplied text verbatim. Do not rewrite, translate, spell-correct, or add
+any other wording. Typography and placement still follow the original brief.
+```
 
-Ivory handmade paper and upper/lower whitespace remain clearly visible. Recompose field ratio, subject scale, boundary crossing, whitespace, type, and safe regions for every device and aspect ratio; never crop another result.
+### No text
 
-## Relaxed handwritten copy
+```text
+TEXT MODE: NONE
+Render no letters, characters, numbers, titles, labels, logos, or pseudo-text anywhere.
+```
 
-Obey the resolved automatic, exact-user, or text-free copy mode and target language or locale. Preserve exact user wording verbatim. In text-free mode render no letter, character, number, handwriting trace, text, or pseudo-text.
+See `SKILL.md` for preflight, multi-size, multi-mode, wallpaper, execution, and output rules. Every final generation request has this order:
 
-Automatic copy distils one short line from the photograph's visible or supported emotion, action, state, relation, or metaphor. Add zero to two micro-elements only when genuinely useful. Places, dates, numbers, and provenance must be user-supplied or reliably established and are never fabricated.
-
-Use a natural soft, loose, slightly scribbled but readable handwritten equivalent for the target script. Let it follow the field edge, subject gesture, or open paper, with optional light interweave, offset, or boundary crossing. It must feel drawn into the work. Reject formal typeset titles, bold slogans, commercial script fonts, giant text, glow, and pseudo-foreign writing.
-
-## Mode and acceptance
-
-
-Hard gate: at least three source cues and the principal action or relation; one source-derived horizontal low-saturation paper field; deliberate field height, subject scale/offset/crop/crossing, and upper/lower whitespace ratio; light matte wax-pastel subject preserving core proportion and flow; loose broken friction marks catching coarse fibre; credible restrained double paper, mild ageing, Risograph grain, and tiny registration shift; native readable handwriting integrated with field, subject, or whitespace; no fixed palette, children's cartoon, cheap scrapbook, acrylic blocks, decorative clutter, realistic modelling, plastic 3D, photo fragment, or pseudo-text.
-
-If any hard condition fails, correct the generated asset. Never fake the artwork with programmatic drawing, SVG, HTML, Canvas, or a post-composited type overlay.
+```text
+complete verbatim 029-source.md
++ current runtime override block
++ exactly one text-mode block
++ any other explicit user requirement, verbatim, at the very end
+```
