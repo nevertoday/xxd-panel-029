@@ -38,7 +38,18 @@ One low-saturation horizontal paper field is derived from the current photograph
 
 These samples demonstrate the 029 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why it exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 029 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Redraw the photograph in relaxed wax pastel across one horizontal paper field |
+| **Recognizable signature** | HORIZONTAL FIELD · LIGHT WAX PASTEL · ROUGH HANDMADE PAPER · RISOGRAPH GRAIN · RELAXED HANDWRITING |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 “Wax-crayon drawing” easily collapses into a children's cartoon, cheap scrapbook page, fixed dusty-pink template, or a pile of stickers mistaken for handmade warmth.
 
@@ -50,7 +61,7 @@ lock identity / proportion / gesture / relation → derive one horizontal low-sa
 
 If an unrelated photograph could replace the source without materially changing subject gesture, horizontal-field proportion, boundary crossing, composite colour, wax-mark rhythm, or handwriting relation, the result is not 029.
 
-## The 029 visual contract
+## What makes the finished style recognizable
 
 - **Source identity:** at least three specific cues preserve proportion, contour flow, pose, direction, action, function, and relation.
 - **One horizontal field:** hue, temperature, and value come from the current photograph; field height, vertical position, and upper/lower ivory paper form a deliberate ratio.
