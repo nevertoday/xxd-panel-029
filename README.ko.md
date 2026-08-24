@@ -22,6 +22,22 @@ XXD Panel 029는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 
 화면에는 현재 사진의 복합 색감과 정서에서 얻은 저채도 가로 종이 색면을 정확히 하나만 둡니다. 주제는 원본의 무게에 따라 비껴 놓이거나 잘리거나 색면 경계를 넘을 수 있습니다. 얕은 이중 종이 깊이, 섬유에 걸려 끊기는 자국, 절제된 노화감, 리소그래프 입자와 미세한 판 어긋남, 부드러운 손글씨가 조용한 현대 편집 이미지를 만듭니다.
 
+## 예시 · X에서
+
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090452158827422135) · 2026-08-20<br>
+> GPT2 x 蜡笔 x 松弛感 x 美学提示词 x VOL.029
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090452158827422135"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 029 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090452158827422135"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 029 예시 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090452158827422135">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 029의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
 ## 왜 029이 필요한가요
 
 일반적인 ‘크레용 그림’은 어린이 만화, 값싼 스크랩북, 고정된 더스티 핑크 템플릿, 혹은 수공예 온기로 위장한 스티커 더미로 쉽게 무너집니다.
@@ -43,22 +59,6 @@ XXD Panel 029는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **이중 종이:** 거친 아이보리 바탕 위에 저채도 두 번째 종이층 하나만 놓고 얕은 가장자리 깊이를 남기며, 콜라주 장식은 늘리지 않습니다.
 - **인쇄 흔적:** 가벼운 노화감, 리소그래프 입자와 미세한 판 어긋남이 촉각적 온기를 더하되 지저분한 필터가 되지 않습니다.
 - **힘을 뺀 손글씨:** 짧은 한 줄이 색면 가장자리, 주제의 몸짓 또는 열린 종이를 따르며 필요할 때만 가볍게 얽히거나 비껴가거나 넘습니다.
-
-## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090452158827422135) · 2026-08-20<br>
-> GPT2 x 蜡笔 x 松弛感 x 美学提示词 x VOL.029
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090452158827422135"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 029 예시 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090452158827422135"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 029 예시 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090452158827422135">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 029의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 

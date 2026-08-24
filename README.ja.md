@@ -22,6 +22,22 @@ XXD Panel 029 は、Codex と互換 Agent のための画像生成 Skill です�
 
 画面には、現在の写真の複合色と感情から導いた低彩度の横長紙色面を一つだけ置きます。主体は元写真の重心に応じて色面からずれ、切れ、境界をまたぐことができます。二層の紙の浅い奥行き、繊維に引っ掛かる途切れた筆触、控えめな経年感、リソグラフの粒子とごく小さな版ずれ、柔らかな手書き文字が、静かな現代エディトリアル像を作ります。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090452158827422135) · 2026-08-20<br>
+> GPT2 x 蜡笔 x 松弛感 x 美学提示词 x VOL.029
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090452158827422135"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 029 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090452158827422135"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 029 作例 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090452158827422135">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 029 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## なぜ 029 が必要なのか
 
 一般的な「クレヨン風」は、子ども向け漫画、安価なスクラップブック、固定されたくすみピンクのテンプレート、または手仕事らしさに見せかけたステッカーの寄せ集めへ崩れがちです。
@@ -43,22 +59,6 @@ XXD Panel 029 は、Codex と互換 Agent のための画像生成 Skill です�
 - **二層の紙：** 粗いアイボリー紙の上に低彩度の第二の紙を一層だけ置き、控えめな端の奥行きを見せます。コラージュの装飾は増やしません。
 - **印刷の痕跡：** 軽い経年感、リソグラフの粒子、ごく小さな版ずれで触覚的な温度を加え、汚れフィルターにはしません。
 - **力の抜けた手書き文字：** 短い一行を色面の縁、主体の身振り、または開いた紙に沿わせ、必要なら軽く交差、ずれ、重なりを作ります。
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090452158827422135) · 2026-08-20<br>
-> GPT2 x 蜡笔 x 松弛感 x 美学提示词 x VOL.029
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090452158827422135"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 029 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090452158827422135"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 029 作例 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090452158827422135">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 029 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 
