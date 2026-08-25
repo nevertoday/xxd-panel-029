@@ -16,16 +16,7 @@
 
 </div>
 
-> HORIZONTAL FIELD · LIGHT WAX PASTEL · ROUGH HANDMADE PAPER · RISOGRAPH GRAIN · RELAXED HANDWRITING
-
-XXD Panel 029 is an image-generation Skill for Codex and compatible agents. It preserves the photograph's identity, proportion, contour flow, pose, and relation, then simplifies the subject into light matte wax-pastel marks on rough ivory handmade paper.
-
-One low-saturation horizontal paper field is derived from the current photograph's composite colour and emotion. The subject may offset, crop, or cross its boundary according to source weight. Loose broken friction, double-paper depth, restrained ageing, Risograph grain, and soft handwriting create a quiet modern editorial paper image.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090452158827422135) · 2026-08-20<br>
-> GPT2 x 蜡笔 x 松弛感 x 美学提示词 x VOL.029
 
 <table>
   <tr>
@@ -34,9 +25,18 @@ One low-saturation horizontal paper field is derived from the current photograph
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090452158827422135) · 2026-08-20<br>
+> GPT2 x 蜡笔 x 松弛感 x 美学提示词 x VOL.029
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090452158827422135">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 029 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> HORIZONTAL FIELD · LIGHT WAX PASTEL · ROUGH HANDMADE PAPER · RISOGRAPH GRAIN · RELAXED HANDWRITING
+
+XXD Panel 029 is an image-generation Skill for Codex and compatible agents. It preserves the photograph's identity, proportion, contour flow, pose, and relation, then simplifies the subject into light matte wax-pastel marks on rough ivory handmade paper.
+
+One low-saturation horizontal paper field is derived from the current photograph's composite colour and emotion. The subject may offset, crop, or cross its boundary according to source weight. Loose broken friction, double-paper depth, restrained ageing, Risograph grain, and soft handwriting create a quiet modern editorial paper image.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 029 right for you?
