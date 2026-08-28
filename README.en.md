@@ -16,28 +16,6 @@
 
 </div>
 
-<!-- xxd-human-intro:start -->
-## Where this Panel fits — and what it solves
-
-When a photograph needs to become a poster, cover, social asset, or wallpaper, the real design problem is rarely a simple change of style. The challenge is to redesign it while preserving identity, key relationships, mood, and recognisability.
-
-**Panel 029** is suited to work that must retain the source's essential content while pursuing this visual direction: **Redraw the photograph in relaxed wax pastel across one horizontal paper field**. It begins with intended use and desired outcome; layout, size, text, and delivery format follow from those needs.
-
-### Use it when
-
-- **Content must remain anchored:** people, objects, actions, and relationships should not be replaced by an unrelated template.
-- **The image needs stronger expression:** you want a clearer editorial language, artistic treatment, or narrative focus.
-- **Delivery must stay flexible:** one source needs comparison layouts, design-only artwork, multiple ratios, or a wallpaper set.
-
-### A simple way to begin
-
-You do not need to review every option first. Send your Agent an image and say:
-
-> Use XXD Panel 029 on this image and recommend the best layout and size first.
-
-Review the samples below if you want to confirm the visual direction first. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
-<!-- xxd-human-intro:end -->
-
 ## Original Samples from X
 
 <table>
@@ -87,6 +65,28 @@ These samples demonstrate the 029 aesthetic motive. Their subjects, composition,
 XXD Panel 029 is an image-generation Skill for Codex and compatible agents. It preserves the photograph's identity, proportion, contour flow, pose, and relation, then simplifies the subject into light matte wax-pastel marks on rough ivory handmade paper.
 
 One low-saturation horizontal paper field is derived from the current photograph's composite colour and emotion. The subject may offset, crop, or cross its boundary according to source weight. Loose broken friction, double-paper depth, restrained ageing, Risograph grain, and soft handwriting create a quiet modern editorial paper image.
+
+<!-- xxd-human-intro:start -->
+## Where this Panel fits — and what it solves
+
+When a photograph needs to become a poster, cover, social asset, or wallpaper, the real design problem is rarely a simple change of style. The challenge is to redesign it while preserving identity, key relationships, mood, and recognisability.
+
+**Panel 029** is suited to work that must retain the source's essential content while pursuing this visual direction: **Redraw the photograph in relaxed wax pastel across one horizontal paper field**. It begins with intended use and desired outcome; layout, size, text, and delivery format follow from those needs.
+
+### Use it when
+
+- **Content must remain anchored:** people, objects, actions, and relationships should not be replaced by an unrelated template.
+- **The image needs stronger expression:** you want a clearer editorial language, artistic treatment, or narrative focus.
+- **Delivery must stay flexible:** one source needs comparison layouts, design-only artwork, multiple ratios, or a wallpaper set.
+
+### A simple way to begin
+
+You do not need to review every option first. Send your Agent an image and say:
+
+> Use XXD Panel 029 on this image and recommend the best layout and size first.
+
+Review the samples below if you want to confirm the visual direction first. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
+<!-- xxd-human-intro:end -->
 
 ## Original prompt · Five languages
 
