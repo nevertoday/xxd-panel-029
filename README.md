@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 029
+# 🦁 XXD Panel 029｜纸上慢写
 
 ### 把照片画成横向低饱和色域上的松弛蜡粉笔手绘
 

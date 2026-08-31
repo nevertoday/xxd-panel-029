@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 029
+# 🦁 XXD Panel 029｜종이 위 느린 스케치
 
 ### 사진을 가로 저채도 색면 위의 느슨한 왁스 파스텔 그림으로
 

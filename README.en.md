@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 029
+# 🦁 XXD Panel 029｜Slow Sketch on Paper
 
 ### Redraw the photograph in relaxed wax pastel across one horizontal paper field
 
