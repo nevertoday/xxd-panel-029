@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-029
-description: "Create XXD Panel 029 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-029 or requests the exact Panel 029 style."
+description: "XXD Panel 029｜Slow Sketch on Paper: redraws a photo as a relaxed, naive wax-pastel drawing on off-white, coarse-fibred handmade paper: one horizontal block of low-saturation paper colour, re-mixed from the photo's overall colour and mood, stretches across the page, and the subject is sketched over it in pale matte wax pastel with loose, irregular, slightly broken and rough-textured lines that keep only its core proportions, direction and identifying features, free to sit off-centre or cross the block's edge, with layered paper, light ageing, Risograph grain and real fibre, plus one short, soft, scrawled handwritten phrase. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-029 or asks for wax-pastel sketches, naive crayon drawing on handmade paper or relaxed Risograph-textured illustration from a photo."
 ---
 
 # XXD Panel 029

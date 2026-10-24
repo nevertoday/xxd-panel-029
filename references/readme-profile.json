@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 029｜Slow Sketch on Paper: redraws a photo as a relaxed, naive wax-pastel drawing on off-white, coarse-fibred handmade paper: one horizontal block of low-saturation paper colour, re-mixed from the photo's overall colour and mood, stretches across the page, and the subject is sketched over it in pale matte wax pastel with loose, irregular, slightly broken and rough-textured lines that keep only its core proportions, direction and identifying features, free to sit off-centre or cross the block's edge, with layered paper, light ageing, Risograph grain and real fibre, plus one short, soft, scrawled handwritten phrase. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-029 or asks for wax-pastel sketches, naive crayon drawing on handmade paper or relaxed Risograph-textured illustration from a photo.",
+  "short_description": "纸上慢写：把照片画成横向低饱和色块上的松弛蜡粉笔手绘，配一句潦草手写",
+  "zh-CN": {
+    "name": "纸上慢写",
+    "tagline": "把照片画成一块横向低饱和色块上的松弛蜡粉笔手绘，配一句随手写下的短句。",
+    "look": "底是米白色的粗纤维手工纸，中间横着一块低饱和的纸张色域，颜色从照片的整体色调和情绪里重新调出来，不固定色相。主体用浅色哑光蜡粉笔概括地画在上面，只留最核心的比例、走势和特征，线条随性、不规整，有断裂和粗糙的摩擦感，可以偏置、裁切或跨出色块边界。画面保留双层纸、轻微做旧、Risograph 颗粒和真实的纸纤维，没有复杂阴影和数字光滑感。文字只有一句从照片情绪里提炼的短句，用柔软、潦草、不完美的手写放在色块边缘或留白里。",
+    "traits": [
+      "横向色域",
+      "蜡粉笔",
+      "粗纤维纸",
+      "Risograph",
+      "松弛手写"
+    ],
+    "good": [
+      "形状简单、一眼能认的主体：一只杯子、一只猫、一辆自行车、一瓶花",
+      "安静的日常瞬间：坐在台阶上的人、窗边的植物、海边的地平线",
+      "想做成温柔文艺的手账页、书签或社交配图的照片"
+    ],
+    "poor": [
+      "需要精确细节的图：产品、证件照、带文字的招牌",
+      "想要干净利落的数字插画、卡通或鲜艳撞色的需求",
+      "需要醒目大标题或完整排版信息的设计，这里只有一句手写"
+    ]
+  },
+  "en": {
+    "name": "Slow Sketch on Paper",
+    "tagline": "Redraws a photo in relaxed wax pastel across one horizontal block of muted colour, with one casual handwritten line.",
+    "look": "The base is off-white, coarse-fibred handmade paper with one horizontal block of low-saturation paper colour across it, re-mixed from the photo's overall tone and mood rather than a fixed hue. The subject is sketched over it in pale matte wax pastel, keeping only its core proportions, direction and identifying features, in loose, irregular lines with breaks and a rough drag, free to sit off-centre, be cropped or cross the block's edge. Layered paper, light ageing, Risograph grain and real paper fibre stay visible, with no complex shading or digital smoothness. The only text is one short phrase drawn from the photo's mood, in soft, scrawled, imperfect handwriting along the block's edge or in the empty space.",
+    "traits": [
+      "Horizontal colour block",
+      "Wax pastel",
+      "Coarse-fibre paper",
+      "Risograph",
+      "Relaxed handwriting"
+    ],
+    "good": [
+      "Simple subjects you recognise at once: a cup, a cat, a bicycle, a vase of flowers",
+      "Quiet everyday moments: someone sitting on steps, a plant by a window, a sea horizon",
+      "Photos you want as a gentle journal page, bookmark or social image"
+    ],
+    "poor": [
+      "Images that need exact detail: products, ID photos, signs with text",
+      "Requests for crisp digital illustration, a cartoon look or bright clashing colour",
+      "Designs that need a bold headline or full layout, since there is only one handwritten line"
+    ]
+  },
+  "ja": {
+    "name": "紙にゆっくり描く",
+    "tagline": "写真を、横長の低彩度の色面の上に描いたゆるやかなワックスパステル画にし、さらりと書いた一言を添えます。",
+    "look": "地は生成りの粗い繊維の手漉き紙で、中央に横長の低彩度の紙の色面が一つ広がります。色は写真全体の色調と気分から混ぜ直したもので、色相は決まっていません。主役はその上に淡いマットなワックスパステルでざっくり描き、核となる比率、流れ、特徴だけを残します。線は気ままで不揃い、途切れやざらついた摩擦感があり、片寄せたり、切ったり、色面の縁を越えたりしてかまいません。二重になった紙、軽い古び、リソグラフの粒子、本物の紙の繊維を残し、複雑な陰影やデジタルのなめらかさはありません。文字は写真の気分から取った短い一言だけで、やわらかく走り書きした不完全な手書きで色面の縁や余白に置きます。",
+    "traits": [
+      "横長の色面",
+      "ワックスパステル",
+      "粗い繊維の紙",
+      "リソグラフ",
+      "ゆるい手書き"
+    ],
+    "good": [
+      "一目でわかるシンプルな主役：カップ、猫、自転車、花瓶の花",
+      "静かな日常の瞬間：階段に座る人、窓辺の植物、海の水平線",
+      "やさしい文芸風の手帳ページ、しおり、SNS 画像にしたい写真"
+    ],
+    "poor": [
+      "正確な細部が必要な画像：商品、証明写真、文字のある看板",
+      "くっきりしたデジタルイラスト、マンガ風、鮮やかな色のぶつけ合いを求める場合",
+      "目立つ見出しや情報の多いレイアウトが必要なデザイン（入るのは手書きの一言だけです）"
+    ]
+  },
+  "ko": {
+    "name": "종이 위 느린 스케치",
+    "tagline": "사진을 가로로 놓인 저채도 색면 위에 그린 느긋한 왁스 파스텔 그림으로 만들고, 무심하게 쓴 한 줄을 곁들입니다.",
+    "look": "바탕은 미색의 거친 섬유 수제지이고, 가운데에 가로로 긴 저채도 종이 색면 하나가 펼쳐집니다. 색은 사진 전체의 색조와 분위기에서 다시 섞어 낸 것으로 색상이 정해져 있지 않습니다. 주인공은 그 위에 연한 무광 왁스 파스텔로 대략 그리며, 핵심 비율, 흐름, 특징만 남깁니다. 선은 자유롭고 고르지 않으며 끊김과 거친 마찰감이 있고, 한쪽으로 치우치거나 잘리거나 색면 경계를 넘어도 됩니다. 두 겹 종이, 약간의 낡은 느낌, 리소그래프 입자, 진짜 종이 섬유가 보이며, 복잡한 음영이나 디지털의 매끈함은 없습니다. 글자는 사진의 분위기에서 뽑은 짧은 한 줄뿐이며, 부드럽고 흘려 쓴 불완전한 손글씨로 색면 가장자리나 여백에 둡니다.",
+    "traits": [
+      "가로 색면",
+      "왁스 파스텔",
+      "거친 섬유 종이",
+      "리소그래프",
+      "느긋한 손글씨"
+    ],
+    "good": [
+      "한눈에 알아보는 단순한 주인공: 컵, 고양이, 자전거, 꽃병의 꽃",
+      "조용한 일상의 순간: 계단에 앉은 사람, 창가의 식물, 바다 수평선",
+      "다정한 문예풍 다이어리 페이지, 책갈피, SNS 이미지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "정확한 디테일이 필요한 이미지: 제품, 증명사진, 글자가 있는 간판",
+      "깔끔한 디지털 일러스트, 만화 느낌, 선명한 색 충돌을 원하는 경우",
+      "눈에 띄는 큰 제목이나 정보가 많은 레이아웃이 필요한 디자인(손글씨 한 줄만 들어갑니다)"
+    ]
+  },
+  "ar": {
+    "name": "رسم بطيء على الورق",
+    "tagline": "يعيد رسم الصورة بقلم الباستيل الشمعي بحرية فوق مساحة لونية أفقية باهتة، مع سطر واحد مكتوب باليد على عجل.",
+    "look": "الأساس ورق يدوي خشن الألياف بلون أبيض مائل إلى الكريمي، تمتد عليه مساحة أفقية واحدة من لون ورقي قليل التشبع، يُعاد مزجها من الطابع اللوني العام للصورة ومزاجها لا من لون ثابت. يُرسم العنصر فوقها بالباستيل الشمعي المطفأ الفاتح رسماً مجملاً لا يُبقي إلا نِسبه الأساسية واتجاهه وملامحه المميزة، بخطوط حرة غير منتظمة فيها انقطاع واحتكاك خشن، ويمكن أن يكون منزاحاً أو مقصوصاً أو متجاوزاً حافة المساحة. تبقى طبقتا الورق وقِدم خفيف وحبيبات الريزوغراف وألياف الورق الحقيقية ظاهرة، بلا تظليل معقد ولا نعومة رقمية. النص الوحيد عبارة قصيرة مستوحاة من مزاج الصورة، بخط يد ناعم متعجّل غير متقن، على حافة المساحة أو في الفراغ.",
+    "traits": [
+      "مساحة لونية أفقية",
+      "باستيل شمعي",
+      "ورق خشن الألياف",
+      "ريزوغراف",
+      "خط يد مسترخٍ"
+    ],
+    "good": [
+      "عناصر بسيطة تُعرف فوراً: فنجان، قطة، دراجة، مزهرية زهور",
+      "لحظات يومية هادئة: شخص جالس على درج، نبتة قرب نافذة، أفق البحر",
+      "صور تريدها صفحة دفتر رقيقة أو فاصل كتاب أو صورة للنشر"
+    ],
+    "poor": [
+      "صور تحتاج إلى تفاصيل دقيقة: منتجات، صور الهوية، لافتات مكتوبة",
+      "طلب رسم رقمي حاد أو مظهر كرتوني أو ألوان زاهية متصادمة",
+      "تصاميم تحتاج إلى عنوان بارز أو تنسيق كامل للمعلومات، فلا يوجد هنا إلا سطر واحد بخط اليد"
+    ]
+  }
+}
